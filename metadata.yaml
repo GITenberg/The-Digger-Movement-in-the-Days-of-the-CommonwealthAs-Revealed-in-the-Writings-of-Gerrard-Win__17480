@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7415'
     url: http://www.gutenberg.org/2009/agents/7415
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17480#The-Digger-Movement-in-the-Days-of-the-CommonwealthAs-Revealed-in-the-Writings-of-Gerrard-Win_
 gutenberg_issued: '2006-01-08'
 gutenberg_type: Text
 identifiers:
