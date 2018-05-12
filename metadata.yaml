@@ -1,0 +1,30 @@
+_repo: The-Digger-Movement-in-the-Days-of-the-CommonwealthAs-Revealed-in-the-Writings-of-Gerrard-Win__17480
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berens, Lewis Henry
+    gutenberg_agent_id: '7415'
+    url: http://www.gutenberg.org/2009/agents/7415
+description: ''
+gutenberg_issued: '2006-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17480'
+  lccn: 07029136
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Communism'
+- !lcsh 'Winstanley, Gerrard, 1609-'
+- !lcc 'DA'
+- !lcsh 'Land use'
+title: 'The Digger Movement in the Days of the Commonwealth
+
+  As Revealed in the Writings of Gerrard Winstanley, the Digger, Mystic and Rationalist,
+  Communist and Social Reformer'
+url: http://www.gutenberg.org/ebooks/17480
